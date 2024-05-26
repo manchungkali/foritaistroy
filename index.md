@@ -3,6 +3,7 @@ layout: default
 ---
 
 
+
 ## Discovering the Need
 
 While noticing users struggling to find suitable AI tools, I identified a unique need. Many users weren't clear in describing what they were looking for and were only aware of a limited range of AI tools. This realization sparked the idea that led to the development of [forit.ai](https://forit.ai).
