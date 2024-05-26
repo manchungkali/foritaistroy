@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # My Developer Story: Creating forit.ai
 
 ## Discovering the Need
